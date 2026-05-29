@@ -1,2 +1,11 @@
 # Python-practice
-My python learning journey
+
+Hey, I'm Blessing
+I'm currently learning:
+  -Python
+  -SQL
+  -Data Science
+  -Machine Learning
+  -AI
+
+This repiository contains my practice projects and excercises
