@@ -8,4 +8,4 @@ I'm currently learning:
   -Machine Learning
   -AI
 
-This repiository contains my practice projects and excercises
+This repository contains my practice projects and excercises
